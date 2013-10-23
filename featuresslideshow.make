@@ -5,6 +5,7 @@ api = 2
 projects[ctools][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
 projects[features][subdir] = "contrib"
+projects[features_extra][subdir] = "contrib"
 projects[filefield_paths][subdir] = "contrib"
 projects[nodequeue][subdir] = "contrib"
 projects[rules][subdir] = "contrib"

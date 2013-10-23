@@ -45,9 +45,7 @@ function featuresslideshow_fe_nodequeue_export_fields() {
     'types' => array(
       0 => 'slideshow',
     ),
-    'roles' => array(
-      0 => 'editor',
-    ),
+    'roles' => array(),
     'count' => 0,
   );
 

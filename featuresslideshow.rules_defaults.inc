@@ -15,7 +15,6 @@ function featuresslideshow_default_rules_configuration() {
       "REQUIRES" : [ "rules", "nodequeue_rules" ],
       "ON" : { "node_insert--slideshow" : { "bundle" : "slideshow" } },
       "DO" : [
-        { "drupal_message" : { "message" : "helo" } },
         { "nodequeue_rules_action_add_node" : { "node" : [ "node" ], "queue" : "slideshow", "unique" : 1 } }
       ]
     }

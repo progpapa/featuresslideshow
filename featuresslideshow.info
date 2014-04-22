@@ -8,7 +8,6 @@ dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = fe_nodequeue
 dependencies[] = features
-dependencies[] = featuresnews
 dependencies[] = filefield_paths
 dependencies[] = image
 dependencies[] = nodequeue
